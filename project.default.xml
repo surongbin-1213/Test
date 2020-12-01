@@ -1,0 +1,93 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+        <file url="PROJECT" charset="UTF-8" />
+      </component>
+      <component name="MavenImportPreferences">
+        <option name="generalSettings">
+          <MavenGeneralSettings>
+            <option name="localRepository" value="D:\IDEA WORK\Maven\repository" />
+            <option name="mavenHome" value="D:/IDEA WORK/Maven/apache-maven-3.6.1" />
+            <option name="userSettingsFile" value="D:\IDEA WORK\Maven\apache-maven-3.6.1\conf\settings.xml" />
+          </MavenGeneralSettings>
+        </option>
+        <option name="importingSettings">
+          <MavenImportingSettings>
+            <option name="vmOptionsForImporter" value="-Xmx768m" />
+          </MavenImportingSettings>
+        </option>
+      </component>
+      <component name="MavenRunner">
+        <option name="jreName" value="#JAVA_HOME" />
+      </component>
+      <component name="ProjectInspectionProfilesVisibleTreeState">
+        <entry key="Project Default">
+          <profile-state>
+            <expanded-state>
+              <State />
+              <State>
+                <id>Android</id>
+              </State>
+              <State>
+                <id>CorrectnessLintAndroid</id>
+              </State>
+              <State>
+                <id>IconsUsabilityLintAndroid</id>
+              </State>
+              <State>
+                <id>Internationalization</id>
+              </State>
+              <State>
+                <id>InternationalizationJava</id>
+              </State>
+              <State>
+                <id>InternationalizationLintAndroid</id>
+              </State>
+              <State>
+                <id>Java</id>
+              </State>
+              <State>
+                <id>LintAndroid</id>
+              </State>
+              <State>
+                <id>Numeric issuesJava</id>
+              </State>
+              <State>
+                <id>PerformanceLintAndroid</id>
+              </State>
+              <State>
+                <id>Probable bugsJava</id>
+              </State>
+              <State>
+                <id>UsabilityLintAndroid</id>
+              </State>
+              <State>
+                <id>WebSocket</id>
+              </State>
+            </expanded-state>
+            <selected-state>
+              <State>
+                <id>Android</id>
+              </State>
+            </selected-state>
+          </profile-state>
+        </entry>
+      </component>
+      <component name="ProjectViewState">
+        <option name="showLibraryContents" value="true" />
+        <option name="sortByType" value="true" />
+      </component>
+      <component name="PropertiesComponent">
+        <property name="settings.editor.selected.configurable" value="MavenSettings" />
+      </component>
+      <component name="SshConsoleOptionsProvider">
+        <option name="myEncoding" value="UTF-8" />
+        <option name="myConnectionType" value="NONE" />
+      </component>
+      <component name="YarnPnpManager">
+        <pnp-files />
+      </component>
+    </defaultProject>
+  </component>
+</application>
