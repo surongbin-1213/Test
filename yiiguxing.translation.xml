@@ -1,16 +1,20 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="'1.751601938E10' in column '1' is outside valid range for the datatype INTEGER" />
+      <item value="Data Integrity Violation Exception" />
+      <item value="'1.751601938E10' in column '1' is outside valid range for the datatype INTEGER." />
+      <item value="The error occurred while setting parameters" />
+      <item value="select By Example With BLO Bs-Inline" />
       <item value="My SQL Data Exception" />
+      <item value="'1.751601938E10' in column '1' is outside valid range for the datatype INTEGER" />
       <item value="Cannot resolve symbol 'bookNam" />
       <item value="scenic" />
       <item value="base Path" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3" />
-        <entry key="ENGLISH" value="4" />
+        <entry key="CHINESE" value="9" />
+        <entry key="ENGLISH" value="10" />
       </map>
     </option>
   </component>
