@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="org.apache.http.conn.Connect Timeout Exception" />
+      <item value="is not eligible for getting processed by all BeanPostProcessors" />
       <item value="The &lt;project&gt; element is the root of the descriptor. The following table lists all of the possible child elements." />
       <item value="Data Integrity Violation Exception" />
       <item value="'1.751601938E10' in column '1' is outside valid range for the datatype INTEGER." />
@@ -14,8 +16,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="10" />
-        <entry key="ENGLISH" value="10" />
+        <entry key="CHINESE" value="11" />
+        <entry key="ENGLISH" value="12" />
       </map>
     </option>
   </component>
