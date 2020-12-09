@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="property" />
+      <item value="My Batis System Exception" />
+      <item value="Illegal Argument Exception" />
+      <item value="nested exception is org.apache.ibatis.reflection.ReflectionException: Could not set property 'id' of 'class com.kuang.pojo.User' with value '1336577003515555841' Cause: java.lang.IllegalArgumentException: argument type mismatch" />
       <item value="到.duplicate key exception" />
       <item value="dao.Duplicate Key Exception" />
       <item value="Duplicate entry '0' for key 'PRIMARY" />
@@ -19,8 +23,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="14" />
-        <entry key="ENGLISH" value="14" />
+        <entry key="CHINESE" value="17" />
+        <entry key="ENGLISH" value="18" />
       </map>
     </option>
   </component>
