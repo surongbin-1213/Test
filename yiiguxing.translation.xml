@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="到.duplicate key exception" />
+      <item value="dao.Duplicate Key Exception" />
       <item value="Duplicate entry '0' for key 'PRIMARY" />
       <item value="org.apache.http.conn.Connect Timeout Exception" />
       <item value="is not eligible for getting processed by all BeanPostProcessors" />
@@ -17,8 +19,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="12" />
-        <entry key="ENGLISH" value="13" />
+        <entry key="CHINESE" value="14" />
+        <entry key="ENGLISH" value="14" />
       </map>
     </option>
   </component>
