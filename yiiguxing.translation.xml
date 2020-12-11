@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="._jetbrains-agent.jar is unsupported binary file" />
+      <item value="Fail to load plugin descriptor from file ._jetbrains-agent.jar" />
+      <item value="December" />
       <item value="property" />
       <item value="My Batis System Exception" />
       <item value="Illegal Argument Exception" />
@@ -23,8 +26,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="17" />
-        <entry key="ENGLISH" value="18" />
+        <entry key="CHINESE" value="19" />
+        <entry key="ENGLISH" value="19" />
       </map>
     </option>
   </component>
